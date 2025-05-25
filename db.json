@@ -1,0 +1,12 @@
+{
+  "Skills": [
+    { "name": "HTML", "proficiency": 95 },
+    { "name": "CSS", "proficiency": 90 },
+    { "name": "JavaScript", "proficiency": 85 },
+    { "name": "React", "proficiency": 80 },
+    { "name": "Redux", "proficiency": 75 },
+    { "name": "Fetch", "proficiency": 75 },
+    { "name": "Tailwind", "proficiency": 90 },
+    { "name": "Bootstrap", "proficiency": 90 }
+  ]
+}
