@@ -1,12 +1,11 @@
 {
   "Skills": [
-    { "name": "HTML", "proficiency": 95 },
-    { "name": "CSS", "proficiency": 90 },
-    { "name": "JavaScript", "proficiency": 85 },
-    { "name": "React", "proficiency": 80 },
-    { "name": "Redux", "proficiency": 75 },
-    { "name": "Fetch", "proficiency": 75 },
-    { "name": "Tailwind", "proficiency": 90 },
-    { "name": "Bootstrap", "proficiency": 90 }
+    { "name": "HTML", "proficiency": 95, "icon": "FaHtml5" },
+    { "name": "CSS", "proficiency": 90, "icon": "FaCss3Alt" },
+    { "name": "JavaScript", "proficiency": 85, "icon": "FaJs" },
+    { "name": "React", "proficiency": 80, "icon": "FaReact" },
+    { "name": "Redux", "proficiency": 75, "icon": "SiRedux" },
+    { "name": "Tailwind", "proficiency": 90, "icon": "SiTailwindcss" },
+    { "name": "Bootstrap", "proficiency": 90, "icon": "FaBootstrap" }
   ]
 }
